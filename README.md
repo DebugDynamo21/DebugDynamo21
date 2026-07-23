@@ -137,7 +137,10 @@ An online optical store frontend developed using HTML, CSS, Bootstrap and JavaSc
 # 📜 Certifications
 
 - 🎓 Cyfrin Updraft – Blockchain Basics
-- 🎓 LaunchEd Global – Artificial Intelligence Mentorship
+- 🎓 LaunchEd Global – Artificial Intelligence Internship
+- 🎓 Outskill – Generative AI Mastermind
+- 🎓 Outskill – Generative AI 3 Days Bootcamp
+- 🎓 Udemy – Full Stack Development- HTML, CSS, Js, React, Node.js, MongoDB
 
 > More certifications will be added soon 🚀
 
