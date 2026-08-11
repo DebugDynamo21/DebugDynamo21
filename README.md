@@ -147,11 +147,17 @@ An online optical store frontend developed using HTML, CSS, Bootstrap and JavaSc
 - **Python Essentials 2** — Cisco Networking Academy  
   Completed: **2 August 2026**
 
-- 🎓 Cyfrin Updraft – Blockchain Basics
-- 🎓 LaunchEd Global – Artificial Intelligence Internship
-- 🎓 Outskill – Generative AI Mastermind
-- 🎓 Outskill – Generative AI 3 Days Bootcamp
-- 🎓 Udemy – Full Stack Development- HTML, CSS, Js, React, Node.js, MongoDB
+- 🎓 **Cyfrin Updraft** – Blockchain Basics
+  Completed: **2 Dec 2025**
+  
+- 🎓 **LaunchEd Global** – Artificial Intelligence Internship
+  Completed: **31 May 2025** Duration: **1 April 2025 - 31 May 2025**
+  
+- 🎓 **Outskill** – Generative AI Mastermind
+- 🎓 **Growth School** – Generative AI 3 Days Bootcamp
+  
+- 🎓 **Udemy** – Full Stack Development- HTML, CSS, Js, React, Node.js, MongoDB
+  Completed: **14 June 2026**
 
 > More certifications will be added soon 🚀
 
