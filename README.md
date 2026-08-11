@@ -136,6 +136,17 @@ An online optical store frontend developed using HTML, CSS, Bootstrap and JavaSc
 
 # 📜 Certifications
 
+### Cisco Networking Academy
+
+- **Networking Basics** — Cisco Networking Academy  
+  Completed: **20 July 2026**
+
+- **Python Essentials 1** — Cisco Networking Academy  
+  Completed: **27 July 2026**
+
+- **Python Essentials 2** — Cisco Networking Academy  
+  Completed: **2 August 2026**
+
 - 🎓 Cyfrin Updraft – Blockchain Basics
 - 🎓 LaunchEd Global – Artificial Intelligence Internship
 - 🎓 Outskill – Generative AI Mastermind
